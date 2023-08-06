@@ -623,6 +623,10 @@ p{
     position: absolute;
     margin: -6px 2px 2px 2px;
 }
+.coroa:hover{
+    transform: rotate(360deg);
+    transition: 0.35s;
+}
 .redes-sociais {
     display: flex;
     height: 70px;
@@ -1109,12 +1113,13 @@ p{
 
     /*Footer*/
     .footer-bg{
-        font-size: 1.3rem;
+        font-size: 1.25rem;
     }
     .nome-b{
-        font-size: 1.3rem;
+        font-size: 1.25rem;
     }
-  }
+}
+
 
 /*Scroll*/
 ::-webkit-scrollbar {
