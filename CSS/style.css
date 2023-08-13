@@ -1041,7 +1041,7 @@ p{
     }
 }
 
-@media screen and (max-width: 499px) {
+@media screen and (max-width: 420px) {
     .home{
         width: 100%;
     }
