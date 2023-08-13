@@ -282,17 +282,60 @@ p{
     border-left: 5px solid #1C92FF;
     padding-left: 5px;
 }
+.raio{
+    animation: raio 3s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
+    display: inline-block;
+}
+.vassoura{
+    animation: animacao-vassoura 0.7s linear infinite alternate;
+    display: inline-block;
+}
 .foguete{
     animation: animacao-foguete 1s linear infinite alternate;
     display: inline-block;
     font-size: 1.6rem;
     margin-left: 5px;
+    
 }
 @keyframes animacao-foguete{
     from{
         transform: translatey(5px);
     }
 }
+
+@keyframes animacao-vassoura{
+    from{
+        transform: translate(2.5px, -3px);
+    }
+}
+@keyframes raio {
+    0%,
+    100% {
+        transform: rotate(0deg);
+        transform-origin: 50% 50%;
+    }
+    10% {
+        transform: rotate(8deg);
+    }
+    20%,
+    40%,
+    60% {
+        transform: rotate(-10deg);
+    }
+    30%,
+    50%,
+    70% {
+        transform: rotate(10deg);
+    }
+    80% {
+        transform: rotate(-8deg);
+    }
+    90% {
+        transform: rotate(8deg);
+    }
+  }
+  
+
 
 /*button-cv*/
 .button-cv {
