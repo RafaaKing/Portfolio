@@ -1039,6 +1039,11 @@ p{
         margin: 0;
         padding: 0;
     }
+    .con-like{
+        right: -10px;
+        width: 45px;
+        height: 45px;
+     }
 }
 
 @media screen and (max-width: 420px) {
