@@ -1039,11 +1039,6 @@ p{
         margin: 0;
         padding: 0;
     }
-        .con-like{
-       right: -10px;
-       width: 15px;
-       height:15px;
-    }
 }
 
 @media screen and (max-width: 430px) {
@@ -1108,8 +1103,8 @@ p{
     }
     .con-like{
        right: -10px;
-       width: 45px;
-       height: 45px;
+       width: 40px;
+       height: 40px;
     }
     .button-projeto{
         font-size: 0.9rem;
