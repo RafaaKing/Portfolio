@@ -285,10 +285,12 @@ p{
 .raio{
     animation: raio 3s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite both;
     display: inline-block;
+    font-size: 1.3rem;
 }
 .vassoura{
     animation: animacao-vassoura 0.7s linear infinite alternate;
     display: inline-block;
+    font-size: 1.3rem;
 }
 .foguete{
     animation: animacao-foguete 1s linear infinite alternate;
