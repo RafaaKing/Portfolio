@@ -7,10 +7,11 @@ Nele tive o cuidado de deixar cada item dinâmico e animado. Cada imagem, botão
 O site está dividido em algumas seções. Uma delas é a seção "Sobre Mim", onde conto brevemente minha jornada até entrar no mundo da tecnologia e minha paixão por ela. A seção "Habilidades" apresenta as imagens de cada habilidade. Ao passar o mouse sobre cada imagem, uma descrição correspondente será exibida. E por fim, a seção "Projetos" exibe uma breve descrição e uma imagem para cada projeto. Ao passar o mouse sobre um projeto, ele se destacará das demais opções, oferecendo uma visualização mais detalhada.
 
 ## Tecnologias Utilizadas
-
-- **HTML:** Utilizado como linguagem de marcação para estruturar e organizar o conteúdo do site.
-- **CSS:** As folhas de estilo em cascata foram empregadas para criar um design atraente, estilização visual e formatação da página.
-- **JavaScript:** A linguagem de programação JavaScript foi incorporada para adicionar elementos interativos, proporcionando uma experiência dinâmica aos visitantes.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ## Recursos do Projeto
 
@@ -23,6 +24,23 @@ Ao desenvolver este projeto, foram considerados diversos aspectos para aprimorar
 - **Botões Dinâmicos e Animados:** Cada botão presente no portfólio foi enriquecido com animações suaves e interatividade. Isso proporciona uma navegação pelo portfólio mais atraente e envolvente, destacando ainda mais o caráter dinâmico do portfólio.
 
 - **SEO e Design:** Além disso, foram aplicadas técnicas de otimização para mecanismos de busca (SEO) a fim de aumentar a visibilidade do portfólio online. Eu mesmo criei o design por completo, com o objetivo de deixar minha própria personalidade nele.
+
+<p align="center">
+  <img src="https://github.com/RafaaKing/Portfolio/assets/138323110/9cb304b9-50ca-4708-823c-ac16df4c34e7">
+</p>
+
+
+## Agradecimentos
+
+Gostaria de expressar meus sinceros agradecimentos a todas as pessoas que contribuíram para este projeto e me apoiaram ao longo do caminho. Suas ideias, feedback e apoio foram inestimáveis para o sucesso deste trabalho.
+
+Agradeço também à comunidade open source por fornecer ferramentas e recursos valiosos que tornaram possível a criação deste projeto.
+
+Uma gratidão especial aos meus amigos, colegas e familiares que sempre estiveram ao meu lado, oferecendo encorajamento e inspiração contínuos.
+
+Por último, mas não menos importante, agradeço a você, visitante deste projeto, por dedicar seu tempo para explorar e usar o que criei. Espero que este projeto também te inspire em criar o seu próprio.
+
+Obrigado a todos!
 
 
 
