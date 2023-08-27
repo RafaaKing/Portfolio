@@ -32,13 +32,11 @@ Ao desenvolver este projeto, foram considerados diversos aspectos para aprimorar
 
 ## Agradecimentos
 
-Gostaria de expressar meus sinceros agradecimentos a todas as pessoas que contribuíram para este projeto e me apoiaram ao longo do caminho. Suas ideias, feedback e apoio foram inestimáveis para o sucesso deste trabalho.
+Gostaria de expressar meus sinceros agradecimentos a todas as pessoas que contribuíram para este projeto e me apoiaram ao longo do caminho, principalmente meus amigos e familiares, sempre me encorajando e me inspirando. Suas ideias, feedbacks e apoio foram inestimáveis para o sucesso deste projeto.
 
-Agradeço também à comunidade open source por fornecer ferramentas e recursos valiosos que tornaram possível a criação deste projeto.
+Agradeço também à comunidade open source por fornecer ferramentas e recursos valiosos que tornaram possível a criação deste portfólio.
 
-Uma gratidão especial aos meus amigos, colegas e familiares que sempre estiveram ao meu lado, oferecendo encorajamento e inspiração contínuos.
-
-Por último, mas não menos importante, agradeço a você, visitante deste projeto, por dedicar seu tempo para explorar e usar o que criei. Espero que este projeto também te inspire em criar o seu próprio.
+E também a você, visitante deste projeto, por dedicar seu tempo para explorar e usar o que criei. Espero que este projeto também te inspire em criar o seu próprio portfólio.
 
 Obrigado a todos!
 
