@@ -19,7 +19,7 @@ Ao desenvolver este projeto, foram considerados diversos aspectos para aprimorar
 
 - **Responsividade:** O site foi cuidadosamente projetado para se adaptar de forma fluida a diferentes tamanhos de tela. Isso assegura uma experiência consistente e agradável em dispositivos móveis, tablets e desktops.
 
-- **Acessibilidade:** Foi dada especial atenção à acessibilidade, garantindo que o site seja utilizável por todos os públicos, independentemente de suas habilidades. Através da implementação de práticas de semântica HTML adequada, contrastes de cores otimizados e funcionalidades de navegação assistida, buscamos tornar o conteúdo acessível a todos.
+- **Acessibilidade:** Foi dada especial atenção à acessibilidade, garantindo que o site seja utilizável por todos os públicos, independentemente de suas habilidades. Através da implementação de práticas de semântica HTML adequada, contrastes de cores otimizados e funcionalidades de navegação assistida, busquei tornar o conteúdo acessível a todos.
 
 - **Botões Dinâmicos e Animados:** Cada botão presente no portfólio foi enriquecido com animações suaves e interatividade. Isso proporciona uma navegação pelo portfólio mais atraente e envolvente, destacando ainda mais o caráter dinâmico do portfólio.
 
