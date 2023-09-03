@@ -39,7 +39,7 @@ E também a você, visitante deste projeto, por dedicar seu tempo para explorar 
 
 Obrigado a todos!
 
-Créditos ilustrações:
+Créditos ilustrações: <br>
 Ilustração 1: @thiagocosta14 <br>
 Ilustração 2: Freepik
 
