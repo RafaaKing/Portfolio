@@ -29,7 +29,6 @@ Ao desenvolver este projeto, foram considerados diversos aspectos para aprimorar
   <img src="https://github.com/RafaaKing/Portfolio/assets/138323110/9cb304b9-50ca-4708-823c-ac16df4c34e7">
 </p>
 
-
 ## Agradecimentos
 
 Gostaria de expressar meus sinceros agradecimentos a todas as pessoas que contribuíram para este projeto e me apoiaram ao longo do caminho, principalmente meus amigos e familiares, sempre me encorajando e me inspirando. Suas ideias, feedbacks e apoio foram inestimáveis para o sucesso deste projeto.
@@ -39,6 +38,10 @@ Agradeço também à comunidade open source por fornecer ferramentas e recursos 
 E também a você, visitante deste projeto, por dedicar seu tempo para explorar e usar o que criei. Espero que este projeto também te inspire em criar o seu próprio portfólio.
 
 Obrigado a todos!
+
+Créditos ilustrações:
+Ilustração 1: @thiagocosta14
+Ilustração 2: Freepik
 
 
 
