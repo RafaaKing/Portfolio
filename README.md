@@ -40,7 +40,7 @@ E também a você, visitante deste projeto, por dedicar seu tempo para explorar 
 Obrigado a todos!
 
 Créditos ilustrações:
-Ilustração 1: @thiagocosta14
+Ilustração 1: @thiagocosta14 <br>
 Ilustração 2: Freepik
 
 
