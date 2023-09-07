@@ -26,7 +26,7 @@ Ao desenvolver este projeto, foram considerados diversos aspectos para aprimorar
 - **SEO e Design:** Além disso, foram aplicadas técnicas de otimização para mecanismos de busca (SEO) a fim de aumentar a visibilidade do portfólio online. Eu mesmo criei o design por completo, com o objetivo de deixar minha própria personalidade nele.
 
 <p align="center">
-  <img src="https://github.com/RafaaKing/Portfolio/assets/138323110/9cb304b9-50ca-4708-823c-ac16df4c34e7">
+  <img src="https://github.com/RafaaKing/Portfolio/assets/138323110/1962efe7-10c2-41bf-abf8-c95378f40e62">
 </p>
 
 ## Agradecimentos
