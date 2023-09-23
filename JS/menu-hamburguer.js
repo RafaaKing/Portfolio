@@ -18,14 +18,14 @@ function toggleMenu(event) {
 
 
 btnMobile.addEventListener('click', toggleMenu);
-function lucasWii (event){
+function clickMobile (event){
   const tagName = event.target.tagName.toLowerCase()
   if(tagName === 'a' || tagName === 'ul' || tagName === 'li'){
     nav.classList.remove('ativo');
   }
 
 }
-ul.addEventListener('click', lucasWii);
+ul.addEventListener('click', clickMobile);
 btnMobile.addEventListener('touchstart', toggleMenu);
 }    
 initMenuHamburguer()
